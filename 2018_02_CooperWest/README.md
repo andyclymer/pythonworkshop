@@ -1,4 +1,6 @@
-# February 2018 — Type @ Cooper West, Introduction to Python
+# February 2018
+# Type @ Cooper West
+# Introduction to Python
 
 Welcome to the class!
 
