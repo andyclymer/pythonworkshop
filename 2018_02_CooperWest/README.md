@@ -23,3 +23,4 @@ The [DrawBot website](http://www.drawbot.com/) is also your reference for drawin
 
 There's also a [quick reference](http://www.drawbot.com/content/quickReference.html) also gives a pretty good summary for the basics all in one page.
 
+Find inspiration from how others use DrawBot with [Just van Rossum's Daily Drawbot project](http://dailydrawbot.tumblr.com/) or follow [@drawbotapp](https://twitter.com/drawbotapp) on Twitter
