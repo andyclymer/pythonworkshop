@@ -1,8 +1,0 @@
-# Resources for learning Python
-
-- Python basics from the DrawBot website:
-http://www.drawbot.com/content/courseware.html
-
-- Google search found helpful docs
-"python random" search found the official documentation:
-https://docs.python.org/2/library/random.html
