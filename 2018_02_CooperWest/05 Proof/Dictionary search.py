@@ -37,6 +37,9 @@ for word in words:
 
 #print(foundWords)
 
+storyText = ""
 for i in range(21):
-    print( random.choice(foundWords) )
+    #print( random.choice(foundWords) )
+    storyText = storyText + random.choice(foundWords) + " "
+print(storyText)
 
