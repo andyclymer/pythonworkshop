@@ -26,3 +26,12 @@ print(days + ["Friday"])
 print(days)
 days = days + ["Friday"]
 print(days)
+
+# List index:
+print( days[-3:] )
+# 0   1         2           3          4           5         6
+# [24, 'Monday', 'Thursday', 'Tuesday', 'Wednesday', 'Friday']
+    #    -5        -4          -3         -2            -1   
+
+days.pop(2)
+print(days)
